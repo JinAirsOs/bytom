@@ -1,0 +1,6 @@
+send_acct_id = "0CMUIQ06G0A02"
+send_asset_id = "36017df0de65f4de249c966b9a98b8765ee9ecd438be14cdefce9b6467e7a752"
+#"issue", "spend", "address"
+build_type = "address"
+#asset_receiver = ["bm1qm97wwnjvgxarwzgd4q9saf38fj9r5jr8aelcvp"]
+asset_receiver = ["bm1q678m0eac5xcxxvalynzjp5cl4wq06rp039svzs","bm1qhgpjl0f7hzyxj866v0ztllscw6uqmh5gfcuqgy"]
